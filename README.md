@@ -1,7 +1,6 @@
 # FacialfeaturesDNN
 How to extract features from facial images using a pretrained DNN
 
-# Initial steps
 ## Download Anaconda
 Make sure you have Anaconda installed on your system. If you haven't already, you can download it for free from the [Anaconda website](https://www.anaconda.com/download).
 
